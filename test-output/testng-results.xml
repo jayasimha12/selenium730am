@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27171" started-at="2016-10-29T03:44:55Z" finished-at="2016-10-29T03:45:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27171" started-at="2016-10-29T03:44:55Z" finished-at="2016-10-29T03:45:22Z">
+      <class name="com.pprojname.scripts.Ohm_exe">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.pprojname.scripts.Ohm_exe@68bd9607]" name="f" duration-ms="27155" started-at="2016-10-29T09:14:55Z" finished-at="2016-10-29T09:15:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.pprojname.scripts.Ohm_exe -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
